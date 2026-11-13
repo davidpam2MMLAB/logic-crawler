@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "runId": "df2c07b1-d30a-4bf7-bf6a-7e6a0c74703c",
+  "inputDigest": "877ee16a6702a937ca123e2699c9ec23d95e107e56783aa945af075cf8915b7a",
+  "site": "defective",
+  "status": "completed",
+  "entries": [
+    "index.html"
+  ],
+  "scope": {
+    "exclude": [
+      ".git",
+      "node_modules",
+      "backup",
+      "staging",
+      "_archive",
+      "internal"
+    ],
+    "privatePaths": [
+      "admin"
+    ]
+  },
+  "errors": [],
+  "summary": {
+    "pagesScanned": 4,
+    "reachablePages": 3,
+    "brokenLinks": 1,
+    "deadAnchors": 1,
+    "backendExposures": 0,
+    "orphanPages": 1,
+    "uniquePromises": 2
+  },
+  "mechanical": {
+    "broken": [
+      {
+        "from": "index.html",
+        "href": "missing.html?view=full",
+        "linkText": "Workshop schedule",
+        "kind": "missing",
+        "target": "missing.html",
+        "anchor": ""
+      }
+    ],
+    "deadAnchors": [
+      {
+        "from": "index.html",
+        "href": "#absent",
+        "linkText": "Contact",
+        "kind": "internal",
+        "target": "index.html",
+        "anchor": "absent"
+      }
+    ],
+    "backendExposure": [],
+    "orphanPages": [
+      "orphan.html"
+    ]
+  },
+  "skippedPaths": [],
+  "unchecked": []
+}

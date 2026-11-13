@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "runId": "df2c07b1-d30a-4bf7-bf6a-7e6a0c74703c",
+  "inputDigest": "877ee16a6702a937ca123e2699c9ec23d95e107e56783aa945af075cf8915b7a",
+  "status": "skipped",
+  "total": 2,
+  "reviewed": 0,
+  "unknown": 2,
+  "judgeErrors": 0,
+  "verifyErrors": 0,
+  "problems": [],
+  "dismissed": 0,
+  "dismissedItems": [],
+  "unresolved": [
+    {
+      "index": 0,
+      "from": "index.html",
+      "linkText": "Pricing and plans",
+      "goesTo": "login.html",
+      "reason": "AI review not requested"
+    },
+    {
+      "index": 1,
+      "from": "index.html",
+      "linkText": "Meet our team",
+      "goesTo": "about.html#team",
+      "reason": "AI review not requested"
+    }
+  ],
+  "errors": []
+}

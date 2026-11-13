@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "runId": "bee9ab5f-efca-4231-92d9-1e71718c7cdf",
+  "inputDigest": "76187aec1d584d8c88476ff177fee43215b547a8c6b28e12394c00de632b8e2b",
+  "site": "clean",
+  "status": "completed",
+  "entries": [
+    "index.html"
+  ],
+  "scope": {
+    "exclude": [
+      ".git",
+      "node_modules",
+      "backup",
+      "staging",
+      "_archive",
+      "internal"
+    ],
+    "privatePaths": [
+      "admin"
+    ]
+  },
+  "errors": [],
+  "summary": {
+    "pagesScanned": 2,
+    "reachablePages": 2,
+    "brokenLinks": 0,
+    "deadAnchors": 0,
+    "backendExposures": 0,
+    "orphanPages": 0,
+    "uniquePromises": 3
+  },
+  "mechanical": {
+    "broken": [],
+    "deadAnchors": [],
+    "backendExposure": [],
+    "orphanPages": []
+  },
+  "skippedPaths": [],
+  "unchecked": []
+}

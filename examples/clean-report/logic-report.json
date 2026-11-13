@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "runId": "bee9ab5f-efca-4231-92d9-1e71718c7cdf",
+  "inputDigest": "76187aec1d584d8c88476ff177fee43215b547a8c6b28e12394c00de632b8e2b",
+  "status": "skipped",
+  "total": 3,
+  "reviewed": 0,
+  "unknown": 3,
+  "judgeErrors": 0,
+  "verifyErrors": 0,
+  "problems": [],
+  "dismissed": 0,
+  "dismissedItems": [],
+  "unresolved": [
+    {
+      "index": 0,
+      "from": "about.html",
+      "linkText": "Home",
+      "goesTo": "index.html",
+      "reason": "AI review not requested"
+    },
+    {
+      "index": 1,
+      "from": "index.html",
+      "linkText": "Meet our team",
+      "goesTo": "about.html#team",
+      "reason": "AI review not requested"
+    },
+    {
+      "index": 2,
+      "from": "index.html",
+      "linkText": "Contact",
+      "goesTo": "index.html#contact",
+      "reason": "AI review not requested"
+    }
+  ],
+  "errors": []
+}

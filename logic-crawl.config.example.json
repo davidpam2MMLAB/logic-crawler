@@ -1,0 +1,12 @@
+{
+  "entries": [
+    "index.html"
+  ],
+  "provider": "openai-compatible",
+  "model": "YOUR_INSTALLED_LOCAL_MODEL",
+  "baseUrl": "http://127.0.0.1:11434/v1",
+  "apiKeyEnv": "",
+  "timeoutMs": 30000,
+  "batchSize": 8,
+  "concurrency": 2
+}
