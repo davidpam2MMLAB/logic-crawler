@@ -7,7 +7,7 @@ A local website review tool with two layers:
 
 This is Logic Crawler, a website link-and-meaning project. It is not a general source-code correctness scanner. It does not click buttons, run PHP, render JavaScript, test authentication or certify that a website works.
 
-A portfolio project owned and directed by David Pamintuan, with AI-assisted implementation and review. See [project notes](PROJECT-NOTES.md) for contributions, test evidence and limits. Licensing is awaiting the owner’s choice.
+A portfolio project owned and directed by David Pamintuan, with AI-assisted implementation and review. See [project notes](PROJECT-NOTES.md) for contributions, test evidence and limits. Released under the [MIT License](LICENSE).
 
 ## Try it without AI
 

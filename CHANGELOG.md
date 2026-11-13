@@ -11,3 +11,5 @@
 2026-11-12 — Withheld, malformed and unlabeled destinations are locally unresolved without provider calls; counters track actual eligible reviews. Image alt collection is one pass. Added final regression coverage. Reference parse5 confirms unquoted href=ok.html/ includes the slash, so that reported browser-correct case was retained rather than stripped.
 2026-11-12 — 0.4.0-candidate:103checks pass, including final review regressions and hostile-input bounds. README and example config now describe strict explicit-scope validation, local abstention and disposable output state. No release/license/real-provider accuracy claims.
 2026-11-12 — Fable0.4final review found no must-fix code defects; tightened its four remaining low cases in0.4.1: quoted comparison attributes, file-scope trailing slashes, unsupported base-href diagnostic stage, and declaration quote handling.107tests pass. Conservative tag-like quoted-value limitation documented; no public release.
+
+2026-11-12 — Prepared MIT-licensed public portfolio import. AI-assisted source, synthetic fixtures and107test suite only; private audit evidence excluded.
